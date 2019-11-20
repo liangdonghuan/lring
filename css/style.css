@@ -1,0 +1,30 @@
+body{
+	padding: 10px;
+	text-align: center;
+}
+.jumu{
+      text-align: center;
+      margin: 0 auto;
+}
+.card{
+	text-align: center;
+	position: relative;
+	float: left;
+	padding: 10px;
+		}
+.media{
+	width:70%;
+	float: left;
+	position: relative;
+}
+.wb{
+	position: relative;
+	float: left;
+	width: 1900px;
+	height: 50px;
+	background: black;
+}
+.wu{
+	width: 500px;
+	margin: 0 auto;
+}
