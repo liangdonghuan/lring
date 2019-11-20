@@ -3,7 +3,12 @@
 链接名字 git config --global user.name "xxxxx" 
 链接上   email git config --global user.email "xxxxx@xx.com"
 获取shh秘钥    ssh-keygen -t rsa -C "xxxx@xxxx.com"
+显示shh钥匙  cd ~
+           cd ssh.
+           cat id_rsa.pub
 然后网站上配置
+
+
 最后在要克隆的位置 开启git 输入git clone +地址
 
 
